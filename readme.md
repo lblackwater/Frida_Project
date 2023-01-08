@@ -1,1 +1,1 @@
-#This is a duplicate of a project originally worked on Codeacademy.
+#This is a duplicate of a project originally worked on Codecademy.
